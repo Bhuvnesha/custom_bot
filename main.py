@@ -152,6 +152,10 @@ if page == "💬 Chat":
     st.title("🤖 OpenRouter AI Chatbot")
 
     # Sidebar for configuration
+    st.sidebar.header("🔧 Configuration")
+    api_key = "<api_key>"
+    site_url = "https://example.com"
+    site_name = "My Website"
 
 
     # Session state for chat history
