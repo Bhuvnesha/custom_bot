@@ -6,6 +6,7 @@ It supports:
 - "Read More" expandable content for long messages
 - Copy-to-clipboard functionality
 - Simple UI with Pandas + Streamlit
+- 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
 
 ---
 
